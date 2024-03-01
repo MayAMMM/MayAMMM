@@ -10,4 +10,4 @@ I'm a Frontend Developer building my startup projects that I can look back at ye
 <img align="left" alt="CSS3" style="padding-right:10px;" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" style="padding-right:10px;" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="React"  style="padding-right:10px;" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="MySQL" style="padding-right:10px;" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
